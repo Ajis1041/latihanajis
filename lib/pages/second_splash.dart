@@ -60,7 +60,7 @@ class SecondSplash extends StatelessWidget {
                   ),
                 ),
                 child: const Text(
-                  'Kembali',
+                  'Back',
                   style: TextStyle(
                     color: Color(0xff047857),
                     fontWeight: FontWeight.bold,
