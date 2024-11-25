@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:latihanajis/pages/firts_splash.dart';
 import 'package:latihanajis/pages/second_splash.dart';
+import 'package:latihanajis/pages/signin.dart';
 
 void main() => runApp(const MyApp());
 
