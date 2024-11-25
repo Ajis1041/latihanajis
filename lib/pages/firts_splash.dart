@@ -58,5 +58,6 @@ class _FirstSplashState extends State<FirstSplash> {
         ],
       ),
     );
+    vbcfg 
   }
 }
