@@ -45,7 +45,7 @@ class _FirstSplashState extends State<FirstSplash> {
                   height: 169,
                 ),
                 const Text(
-                  'Catatan Ku',
+                  'One Piece',
                   style: TextStyle(
                     color: Color(0xffFFFFFF),
                     fontWeight: FontWeight.bold,
